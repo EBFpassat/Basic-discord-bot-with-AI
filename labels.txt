@@ -1,0 +1,2 @@
+0 Gerçek Kedi
+1 Sahte Kedi
